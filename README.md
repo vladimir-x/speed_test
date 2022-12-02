@@ -1,1 +1,1 @@
-./runner.sh > out4.txt 2>&1
+./runner.sh > out.txt
